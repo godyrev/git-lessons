@@ -2,7 +2,7 @@ let p = document.createElement('p')
 p.innerText = 'something text content'
 document.body.appendChild(p)
 
-const text = "Пиздец какая нудятина.";
+const text = "Пиздец какая нудятина.\nЕбучий случай.";
 
 let count = 0;
 
