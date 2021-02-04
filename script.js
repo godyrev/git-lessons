@@ -7,7 +7,6 @@ const text = "Пиздец какая нудятина.\nЕбучий случа
 let count = 0;
 
 p = document.createElement('p')
-p.classList.add('pizdec')
 document.body.appendChild(p)
 
 const i = setInterval(() => {
